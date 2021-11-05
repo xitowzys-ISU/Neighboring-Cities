@@ -1,0 +1,744 @@
+{
+  "cities": [
+    {
+      "id": 833,
+      "name": "Ḩeşār-e Sefīd",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 47.1594,
+        "lat": 34.3305
+      }
+    },
+    {
+      "id": 2960,
+      "name": "‘Ayn Ḩalāqīm",
+      "state": "",
+      "country": "SY",
+      "coord": {
+        "lon": 36.32191,
+        "lat": 34.94008
+      }
+    },
+    {
+      "id": 3245,
+      "name": "Taglag",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 44.98333,
+        "lat": 38.45
+      }
+    },
+    {
+      "id": 3530,
+      "name": "Qabāghlū",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 46.1685,
+        "lat": 36.1733
+      }
+    },
+    {
+      "id": 5174,
+      "name": "‘Arīqah",
+      "state": "",
+      "country": "SY",
+      "coord": {
+        "lon": 36.48336,
+        "lat": 32.88981
+      }
+    },
+    {
+      "id": 7264,
+      "name": "Kalāteh-ye Dowlat",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 57.61698,
+        "lat": 36.16384
+      }
+    },
+    {
+      "id": 8084,
+      "name": "Behjatābād",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 51.46164,
+        "lat": 36.66743
+      }
+    },
+    {
+      "id": 9874,
+      "name": "Ţālesh Maḩalleh",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 50.67919,
+        "lat": 36.89433
+      }
+    },
+    {
+      "id": 11263,
+      "name": "Shahrīār Kandeh",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 53.19902,
+        "lat": 36.63194
+      }
+    },
+    {
+      "id": 11754,
+      "name": "Bālā Aḩmad Kolā",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 52.66727,
+        "lat": 36.64906
+      }
+    },
+    {
+      "id": 12795,
+      "name": "Aş Şūrah aş Şaghīrah",
+      "state": "",
+      "country": "SY",
+      "coord": {
+        "lon": 36.57387,
+        "lat": 33.03267
+      }
+    },
+    {
+      "id": 14177,
+      "name": "Āqdūz",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 44.26556,
+        "lat": 39.1975
+      }
+    },
+    {
+      "id": 14256,
+      "name": "Āzādshahr",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 48.57073,
+        "lat": 34.79088
+      }
+    },
+    {
+      "id": 18007,
+      "name": "Gollar",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 46.25,
+        "lat": 37.38333
+      }
+    },
+    {
+      "id": 18093,
+      "name": "Dīgāleh",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 45.107,
+        "lat": 37.5525
+      }
+    },
+    {
+      "id": 18557,
+      "name": "Qarālar-e Mīrzā Ḩoseynqolī",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 45.0675,
+        "lat": 37.6747
+      }
+    },
+    {
+      "id": 18918,
+      "name": "Protaras",
+      "state": "",
+      "country": "CY",
+      "coord": {
+        "lon": 34.05833,
+        "lat": 35.0125
+      }
+    },
+    {
+      "id": 23814,
+      "name": "Kahrīz",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 47.0553,
+        "lat": 34.3838
+      }
+    },
+    {
+      "id": 24851,
+      "name": "Nūrābād",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 47.9725,
+        "lat": 34.0734
+      }
+    },
+    {
+      "id": 29033,
+      "name": "Rokan Sarā",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 49.6081,
+        "lat": 37.32085
+      }
+    },
+    {
+      "id": 30321,
+      "name": "Zīrjān",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 58.43586,
+        "lat": 34.2144
+      }
+    },
+    {
+      "id": 30485,
+      "name": "Dahasuways",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 50.72944,
+        "lat": 15.72389
+      }
+    },
+    {
+      "id": 30490,
+      "name": "Ash Shihr",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 49.60639,
+        "lat": 14.75863
+      }
+    },
+    {
+      "id": 30543,
+      "name": "Al Ghaylah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 45.58333,
+        "lat": 14.59583
+      }
+    },
+    {
+      "id": 30616,
+      "name": "Judaydah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 45.29962,
+        "lat": 15.07512
+      }
+    },
+    {
+      "id": 30689,
+      "name": "Dawran",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.44196,
+        "lat": 13.77436
+      }
+    },
+    {
+      "id": 30696,
+      "name": "Najd al Jumai",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.32414,
+        "lat": 13.91581
+      }
+    },
+    {
+      "id": 30714,
+      "name": "Zalmat al Alya",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.09404,
+        "lat": 14.1023
+      }
+    },
+    {
+      "id": 30729,
+      "name": "Suq ar Rabu",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.01511,
+        "lat": 14.51155
+      }
+    },
+    {
+      "id": 30735,
+      "name": "Ash Shuqayrah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.78636,
+        "lat": 13.13452
+      }
+    },
+    {
+      "id": 30740,
+      "name": "Mashraah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.99588,
+        "lat": 13.53235
+      }
+    },
+    {
+      "id": 30748,
+      "name": "Ar Rawnah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.80286,
+        "lat": 13.75638
+      }
+    },
+    {
+      "id": 30762,
+      "name": "Ar Ramadi",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.78457,
+        "lat": 13.95641
+      }
+    },
+    {
+      "id": 30777,
+      "name": "Al Ahad",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.64167,
+        "lat": 14.25833
+      }
+    },
+    {
+      "id": 30788,
+      "name": "Ad Dil",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.81828,
+        "lat": 14.67199
+      }
+    },
+    {
+      "id": 30789,
+      "name": "Al Jabin",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.59904,
+        "lat": 14.70401
+      }
+    },
+    {
+      "id": 32516,
+      "name": "Badrābād-e `Olyā",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 48.27944,
+        "lat": 33.42944
+      }
+    },
+    {
+      "id": 32723,
+      "name": "Īstgāh-e Rāh Āhan-e Garmsār",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 52.30942,
+        "lat": 35.23455
+      }
+    },
+    {
+      "id": 32767,
+      "name": "Qarchak",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 51.56889,
+        "lat": 35.43944
+      }
+    },
+    {
+      "id": 34703,
+      "name": "Suq Sirwah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 45.01667,
+        "lat": 15.45417
+      }
+    },
+    {
+      "id": 34717,
+      "name": "Majzar",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.775,
+        "lat": 15.85
+      }
+    },
+    {
+      "id": 34724,
+      "name": "Bidbadah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 44.7,
+        "lat": 15.425
+      }
+    },
+    {
+      "id": 34821,
+      "name": "Matwah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.64213,
+        "lat": 15.0676
+      }
+    },
+    {
+      "id": 34827,
+      "name": "Suwayr",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.60986,
+        "lat": 16.1818
+      }
+    },
+    {
+      "id": 34846,
+      "name": "Wadarah",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.48321,
+        "lat": 15.71073
+      }
+    },
+    {
+      "id": 34862,
+      "name": "Suq Shamar",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.36806,
+        "lat": 15.885
+      }
+    },
+    {
+      "id": 34886,
+      "name": "Mustaba",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.24895,
+        "lat": 16.22816
+      }
+    },
+    {
+      "id": 34888,
+      "name": "An Nazir",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.26226,
+        "lat": 16.90916
+      }
+    },
+    {
+      "id": 34915,
+      "name": "Dayr al Ḩisī",
+      "state": "",
+      "country": "YE",
+      "coord": {
+        "lon": 43.1,
+        "lat": 16.05
+      }
+    },
+    {
+      "id": 35056,
+      "name": "Tabrīz Jānī",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 46.23333,
+        "lat": 38.13333
+      }
+    },
+    {
+      "id": 36741,
+      "name": "Andīmeshk",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 48.38333,
+        "lat": 32.53333
+      }
+    },
+    {
+      "id": 37755,
+      "name": "Ravīndūzaq",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 48.08,
+        "lat": 38.4398
+      }
+    },
+    {
+      "id": 39161,
+      "name": "Māmā’ī",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 54.39774,
+        "lat": 36.89258
+      }
+    },
+    {
+      "id": 40847,
+      "name": "Reẕāābād",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 57.31778,
+        "lat": 37.49972
+      }
+    },
+    {
+      "id": 41210,
+      "name": "Khorramdarreh",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 49.196,
+        "lat": 36.213
+      }
+    },
+    {
+      "id": 41964,
+      "name": "Kūchaklī",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 50.53333,
+        "lat": 35.46667
+      }
+    },
+    {
+      "id": 44992,
+      "name": "Koshtārgāh",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 49.16667,
+        "lat": 30.55
+      }
+    },
+    {
+      "id": 45013,
+      "name": "Jozf-e Soflá",
+      "state": "",
+      "country": "IR",
+      "coord": {
+        "lon": 48.2241,
+        "lat": 30.3655
+      }
+    },
+    {
+      "id": 49518,
+      "name": "Republic of Rwanda",
+      "state": "",
+      "country": "RW",
+      "coord": {
+        "lon": 30,
+        "lat": -2
+      }
+    },
+    {
+      "id": 49593,
+      "name": "Yeed",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 43.03333,
+        "lat": 4.55
+      }
+    },
+    {
+      "id": 49747,
+      "name": "Xuddur",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 43.88945,
+        "lat": 4.12129
+      }
+    },
+    {
+      "id": 50064,
+      "name": "Xarardheere",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 47.8575,
+        "lat": 4.6544
+      }
+    },
+    {
+      "id": 50360,
+      "name": "Gobolka Woqooyi Galbeed",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 44.5,
+        "lat": 10
+      }
+    },
+    {
+      "id": 50672,
+      "name": "Wanlaweyn",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 44.8938,
+        "lat": 2.6185
+      }
+    },
+    {
+      "id": 50814,
+      "name": "Waajid",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 43.24628,
+        "lat": 3.80958
+      }
+    },
+    {
+      "id": 51230,
+      "name": "Gobolka Togdheer",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 45.41667,
+        "lat": 9.33333
+      }
+    },
+    {
+      "id": 51299,
+      "name": "Tayeeglow",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 44.51112,
+        "lat": 4.01897
+      }
+    },
+    {
+      "id": 51537,
+      "name": "Somalia",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 48,
+        "lat": 6
+      }
+    },
+    {
+      "id": 51966,
+      "name": "Gobolka Shabeellaha Hoose",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 44.41667,
+        "lat": 1.83333
+      }
+    },
+    {
+      "id": 51967,
+      "name": "Gobolka Shabeellaha Dhexe",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 46,
+        "lat": 3
+      }
+    },
+    {
+      "id": 52187,
+      "name": "Gobolka Sanaag",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 48,
+        "lat": 10.5
+      }
+    },
+    {
+      "id": 52381,
+      "name": "Saacow",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 42.44066,
+        "lat": 1.62794
+      }
+    },
+    {
+      "id": 52867,
+      "name": "Qoryooley",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 44.52999,
+        "lat": 1.78784
+      }
+    },
+    {
+      "id": 53157,
+      "name": "Qandala",
+      "state": "",
+      "country": "SO",
+      "coord": {
+        "lon": 49.87282,
+        "lat": 11.47197
+      }
+    }
+  ]
+}
